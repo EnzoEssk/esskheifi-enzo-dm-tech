@@ -1,5 +1,8 @@
-function reverseString(Enzo) {
-    return Enzo;
+let Name;
+Name = 'Enzo Esskheifi'
+function reverseString(Name) {
+    return Name;
 }
-reverseString("Enzo Esskheifi");
+console.log(Name)
+
 
